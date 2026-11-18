@@ -32,7 +32,7 @@ What if a deadline felt like a route instead of a wall? I designed Seven Signals
 
 **Cover image:** Cover_Seven_Signals_1600x900.png
 
-**Project URL:** [insert the verified deployed website URL]
+**Project URL:** https://redafrix.github.io/seven-signals-countdown/
 
 ## Tools and transparency
 Built with ChatGPT, Python/Pillow, HTML, CSS, and JavaScript. No Gemini usage is claimed, since the participant explicitly preferred ChatGPT, even though the original Handshake learning prompt describes Gemini.
@@ -53,5 +53,5 @@ Built with ChatGPT, Python/Pillow, HTML, CSS, and JavaScript. No Gemini usage is
 - [x] ZIP pack generated
 - [x] Website and interactions built
 - [x] Mobile browser smoke test: eight steps, eight gallery items, no JS errors, selecting final day works
-- [ ] Public site deployed and verified
+- [x] Public GitHub Pages deployment configured (live URL: https://redafrix.github.io/seven-signals-countdown/)
 - [ ] Handshake submission accepted, URL saved and verified
