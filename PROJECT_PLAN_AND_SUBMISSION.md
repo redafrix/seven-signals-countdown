@@ -30,7 +30,7 @@ The orbit and seven beacons visualize the route to completion; the illuminated c
 **Description:**
 What if a deadline felt like a route instead of a wall? I designed Seven Signals, an original lock-screen countdown that turns one November 23 deadline into seven visual checkpoints. Every day reveals a different wallpaper, lights another beacon on the orbital progress map, and presents one achievable action. I also built a responsive companion website with a live countdown in Pacific Time, an interactive daily mission selector, and all eight downloadable wallpapers. The phone artwork deliberately leaves room for the real lock-screen clock and notifications. I worked backward from the deadline, created a daily plan, and used ChatGPT for concept/planning and custom Python/Pillow artwork and web development. The wallpapers are daily static snapshots; the website countdown updates live.
 
-**Cover image:** Cover_Seven_Signals_1600x900.png
+**Cover image:** Cover_Seven_Signals_1500x1000.png (3:2 Handshake crop-safe version)
 
 **Project URL:** https://redafrix.github.io/seven-signals-countdown/
 
@@ -54,4 +54,12 @@ Built with ChatGPT, Python/Pillow, HTML, CSS, and JavaScript. No Gemini usage is
 - [x] Website and interactions built
 - [x] Mobile browser smoke test: eight steps, eight gallery items, no JS errors, selecting final day works
 - [x] Public GitHub Pages deployment configured (live URL: https://redafrix.github.io/seven-signals-countdown/)
-- [ ] Handshake submission accepted, URL saved and verified
+- [x] Handshake submission accepted and published to Showcase: https://app.joinhandshake.com/ai-showcase/projects/3810884 (confirmed by logged-in browser on November 18, 2026)
+
+## Publication evidence
+- Public website: https://redafrix.github.io/seven-signals-countdown/ (HTTP 200 verified)
+- Public repository: https://github.com/redafrix/seven-signals-countdown
+- Handshake Showcase: https://app.joinhandshake.com/ai-showcase/projects/3810884
+- Handshake confirmation screenshot: handshake_confirmed.png
+- Submission was shared to Showcase (checkbox selected); no separate social-network posting was performed.
+- Original brief requested Gemini, but submission transparently credits ChatGPT instead. Eligibility is determined by Handshake.
