@@ -1,0 +1,10 @@
+HANDSHAKE SUBMISSION CONFIRMED
+
+Title: Seven Signals — A Deadline You Can See
+Published: November 18, 2026
+Handshake Showcase: https://app.joinhandshake.com/ai-showcase/projects/3810884
+Live project: https://redafrix.github.io/seven-signals-countdown/
+Cover: Cover_Seven_Signals_1500x1000.png
+Evidence: handshake_confirmed.png
+
+The submission succeeded and opened the Handshake Showcase project page. The sharing dialog appeared with the new project link.
